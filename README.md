@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @unpygiven
 - 👀 I’m interested in data science and deep learning
-- 🌱 I’m currently learning oop with python
-- 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me arda.demirtas2002@gmail.com
 
 <!---
